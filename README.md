@@ -1,1 +1,1 @@
-# Deconvolutional filtering of 3D optical-acoustic data using Tikhonov regularizationю
+# Deconvolutional filtering of 3D optical-acoustic data using Tikhonov regularization.
