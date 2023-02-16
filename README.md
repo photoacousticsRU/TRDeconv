@@ -12,4 +12,4 @@ Processed image of vessels
 
 ![alt text](https://github.com/photoacousticsRU/TRDeconv/blob/main/images/z_scan.png?raw=true)
 
-Comparison of Z-scans before (blue) and after (red) processing.
+Comparison of A-scans before (blue) and after (red) processing.
